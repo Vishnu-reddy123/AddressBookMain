@@ -22,7 +22,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AddressBookLauncherUC4">
+    <configuration name="AddressBookLauncherUC4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AddressBookLauncherUC4" />
+      <module name="AddressBook3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AddressBookMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddressBookMain" />
       <module name="AddressBook3" />
@@ -32,6 +39,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddressBookLauncherUC4" />
         <item itemvalue="Application.AddressBookMain" />
       </list>
     </recent_temporary>
